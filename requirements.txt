@@ -1,0 +1,13 @@
+sklearn
+matplotlib
+seaborn
+keras
+tensorflow
+numpy
+opencv-python
+pillow
+seaborn
+imutils
+requests
+GPUtil
+urllib3
